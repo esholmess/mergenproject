@@ -1,2 +1,7 @@
-# Turkcell Yapay Zeka Hackathon'u Türkiye'de ilk 10 takım arasına giren proje prototipimiz
-# Our Turkcell Artificial Intelligence Hackathon project prototype, placed National Top-10 
+# Mergen AI
+Turkcell Yapay Zeka Hackathon'u Türkiye'de ilk 10 takım arasına giren proje prototipimiz
+Our Turkcell Artificial Intelligence Hackathon project prototype, placed National Top-10 
+
+Technologies:
+- Html, Css, JavaScript
+- Python (Flask, Matpolib, Numpy...)
